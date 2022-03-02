@@ -1,3 +1,8 @@
+https://desafios-hacker-rank.netlify.app/
+
+************************************************************************************************************************************
+************************************************************************************************************************************
+
 Create a basic autocorrection application per the requeriments below. The finished application must pass all of the unit tests.
 
 Complete the implementation of src/components/AutocorrectTextArea.js according to the following requirements:
